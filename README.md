@@ -1,2 +1,2 @@
 # graduation_project
-this is graduation project and my cv
+this is my graduation project and my cv
